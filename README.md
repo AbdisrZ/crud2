@@ -1,5 +1,7 @@
 buat folder dengan nama klinik_web di htdocs
 
+htdocs ada di folder C/XAMPP .. 
+
 paste in semua file didalam Zip nya
 
 create new database di browser, buka 
