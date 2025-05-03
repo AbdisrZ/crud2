@@ -1,5 +1,7 @@
 buat folder dengan nama klinik_web di htdocs
 
+paste in semua file didalam Zip nya
+
 create new database di localhost/phpmyadmin
 nyalain dulu XAMPP nya
 
